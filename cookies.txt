@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.mavo.co	TRUE	/	FALSE	1999999999	crumb	Bf7MsiKnLT2hYzUzZWE5NmE1MTZjMjgzMmEwN2UxOGJiYjVjNTI1
+
